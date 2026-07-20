@@ -6,6 +6,8 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import AboutUS from './components/AboutUS'
 import Navbar from './components/Navbar'
+import Nav from './components/Navbar'
+
 
 function App() {
   return (
